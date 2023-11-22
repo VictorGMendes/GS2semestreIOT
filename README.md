@@ -2,7 +2,7 @@
 Termômetro IoT com ESP32 monitora a temperatura do paciente. LED azul indica temperatura normal, LED vermelha alerta febre.
 
 Objetivo:
-O projeto visa criar um dispositivo de medição de temperatura que se conecta à Internet das Coisas (IoT), capaz de monitorar a temperatura de um paciente de forma contínua e fornecer indicações visuais imediatas com base nos valores medidos.
+O projeto visa criar um dispositivo de medição de temperatura que se conecta à Internet, capaz de monitorar a temperatura de um paciente de forma contínua e fornecer indicações visuais imediatas com base nos valores medidos.
 
 Componentes Principais:
 
