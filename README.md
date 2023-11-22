@@ -31,3 +31,18 @@ Uso Doméstico: Monitoramento de temperatura de membros da família.
 Ambientes Médicos: Hospitais, clínicas e unidades de saúde para monitorar pacientes.
 Considerações Finais:
 Este projeto combina hardware e conectividade para criar um dispositivo simples, mas eficaz, para monitorar a temperatura corporal de maneira contínua e fornecer feedback visual imediato, facilitando a detecção precoce de febres ou variações significativas na temperatura do paciente.
+
+# Para replicar
+Abra o link https://wokwi.com/projects/382046934554165249 em um navegador web.
+
+Identificar o código: Localize o código-fonte ou a seção onde a variável myWriteAPIKey está definida.
+
+Encontrar a variável myWriteAPIKey: 
+const char * myWriteAPIKey = "SUA_CHAVE_API_AQUI";
+Substituir pela sua chave: Substitua "SUA_CHAVE_API_AQUI" pela sua chave correta. Certifique-se de manter as aspas e inserir exatamente a chave necessária para a API de escrita.
+
+Salvar as alterações: Após a substituição, salve as alterações no código.
+
+Carregar o código no ESP32: Use a IDE do Arduino ou a ferramenta adequada para carregar o código atualizado no ESP32.
+
+Esses passos devem permitir que você atualize a chave da API no código do ESP32 e utilize a plataforma ou serviço correspondente para o monitoramento da temperatura conforme o projeto proposto.
