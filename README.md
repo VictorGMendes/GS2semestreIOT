@@ -1,10 +1,12 @@
 # GS2semestreIOT
+
+## Resumo
 Termômetro IoT com ESP32 monitora a temperatura do paciente. LED azul indica temperatura normal, LED vermelha alerta febre.
 
 Objetivo:
 O projeto visa criar um dispositivo de medição de temperatura que se conecta à Internet, capaz de monitorar a temperatura de um paciente de forma contínua e fornecer indicações visuais imediatas com base nos valores medidos.
 
-Componentes Principais:
+## Componentes Principais:
 
 ESP32: Placa de desenvolvimento utilizada para processamento e conexão Wi-Fi.
 Sensor de Temperatura: Sensor preciso para capturar a temperatura corporal do paciente.
@@ -20,7 +22,7 @@ Decisão e Feedback Visual: Se a temperatura estiver abaixo de 38 graus, a LED a
 
 Conexão com a IoT: O ESP32 envia os dados da temperatura para uma plataforma IoT ou um servidor na nuvem para um registro histórico e possíveis análises posteriores.
 
-Benefícios:
+## Benefícios:
 
 Monitoramento Contínuo: Oferece um monitoramento constante da temperatura do paciente.
 Indicação Visual Simples: As LEDs coloridas facilitam a compreensão dos valores de temperatura.
