@@ -1,11 +1,11 @@
 # GS2semestreIOT
 
 ## Participantes
-*Caio Alves de Souza  -  RM94372
-*Kamilla de Lima      -  RM96112
-*Victor Mendes        -  RM92843
-*Vinicius Mendes      -  RM94375
-*Wesly Marques        -  RM93470
+Caio Alves de Souza  -  RM94372
+\nKamilla de Lima      -  RM96112
+\nVictor Mendes        -  RM92843
+\nVinicius Mendes      -  RM94375
+\nWesly Marques        -  RM93470
 
 ## Resumo
 Termômetro IoT com ESP32 monitora a temperatura do paciente. LED azul indica temperatura normal, LED vermelha alerta febre.
