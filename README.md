@@ -1,5 +1,8 @@
 # GS2semestreIOT
 
+## Video Pitch
+https://www.youtube.com/watch?v=oJxDAb2kljA
+
 ## Participantes
 <ul>
   <li> Caio Alves de Souza  -  RM94372 </li>
